@@ -1,0 +1,8 @@
+L1=[1,2,3,4,5,6,7,8,9,10]
+print("Original list:", L1)
+ext=L1[0:5]
+print("Extracted First Five Elements:", ext)
+ext.reverse()
+print("Reveresed Extracted  Elements:",ext)
+
+
